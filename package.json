@@ -1,0 +1,33 @@
+{
+  "name": "@mojocss/material-symbols",
+  "version": "1.0.0",
+  "description": "Integrate Google Material Symbols effortlessly into your Mojo CSS projects.",
+  "main": "index.js",
+  "author": "Mojo CSS framework team. mojocss.com",
+  "license": "MIT",
+  "type": "module",
+  "unpkg": "dist/cdn.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mojocss/mojocss-material-symbols-capsule.git"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^5.90.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "keywords": [
+    "mojocss",
+    "capsule",
+    "mojocss-capsule",
+    "material-symbols",
+    "material",
+    "fonticon",
+    "font",
+    "icon",
+    "icons",
+    "front-end"
+  ]
+}
